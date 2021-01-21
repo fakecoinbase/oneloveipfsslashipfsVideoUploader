@@ -37,7 +37,7 @@
     "node-webvtt": "^1.8.0",
     "shelljs": "^0.8.4",
     "snyk": "^1.316.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "steem": "^0.7.11",
     "steemconnect": "^2.0.1",
     "woocommerce-api": "^1.5.0"
